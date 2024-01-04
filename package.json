@@ -1,5 +1,5 @@
 {
-  "name": "json-to-elment-ui-demo",
+  "name": "json-to-element-ui-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,11 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "axios": "1.4.0",
+    "clipboard": "2.0.11",
     "core-js": "^3.8.3",
+    "element-ui": "2.4.5",
+    "json-to-element-ui": "^1.2.1",
     "register-service-worker": "^1.7.2",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1"
